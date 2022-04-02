@@ -1,2 +1,3 @@
 # o-recipes
-Basic recipe website using html knowledge learnt so far
+Basic recipe website
+/switched to mac
